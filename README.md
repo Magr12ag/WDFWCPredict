@@ -1,0 +1,7 @@
+name: Update Results
+on: workflow_dispatch
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo ok
