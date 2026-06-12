@@ -1,6 +1,5 @@
 {
   "generated_at": "2026-06-12T05:47:35.401054Z",
-  "source": "https://worldcup26.ir/get/games",
   "games": [
     {
       "n": 1,
@@ -77,7 +76,7 @@
     {
       "n": 10,
       "home": "Germany",
-      "away": "Curaçao",
+      "away": "Cura\u00e7ao",
       "homeScore": null,
       "awayScore": null,
       "status": "Scheduled"
@@ -269,7 +268,7 @@
     {
       "n": 34,
       "home": "Ecuador",
-      "away": "Curaçao",
+      "away": "Cura\u00e7ao",
       "homeScore": null,
       "awayScore": null,
       "status": "Scheduled"
@@ -436,7 +435,7 @@
     },
     {
       "n": 55,
-      "home": "Curaçao",
+      "home": "Cura\u00e7ao",
       "away": "Ivory Coast",
       "homeScore": null,
       "awayScore": null,
