@@ -1,61 +1,13 @@
 {
-  "generated_at": "2026-06-14T10:46:56.683264Z",
+  "generated_at": "2026-06-15T13:52:53.696726Z",
   "source": "https://worldcup26.ir/get/games",
   "games": [
-    {
-      "n": 1,
-      "home": "Mexico",
-      "away": "South Africa",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "Final"
-    },
-    {
-      "n": 2,
-      "home": "South Korea",
-      "away": "Czech Republic",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "Final"
-    },
-    {
-      "n": 3,
-      "home": "Canada",
-      "away": "Bosnia and Herzegovina",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Final"
-    },
-    {
-      "n": 4,
-      "home": "United States",
-      "away": "Paraguay",
-      "homeScore": 4,
-      "awayScore": 1,
-      "status": "Final"
-    },
-    {
-      "n": 5,
-      "home": "Haiti",
-      "away": "Scotland",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Final"
-    },
     {
       "n": 6,
       "home": "Australia",
       "away": "Turkey",
       "homeScore": 2,
       "awayScore": 0,
-      "status": "Final"
-    },
-    {
-      "n": 7,
-      "home": "Brazil",
-      "away": "Morocco",
-      "homeScore": 1,
-      "awayScore": 1,
       "status": "Final"
     },
     {
@@ -67,193 +19,9 @@
       "status": "Final"
     },
     {
-      "n": 9,
-      "home": "Ivory Coast",
-      "away": "Ecuador",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 10,
-      "home": "Germany",
-      "away": "Curaçao",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 11,
-      "home": "Netherlands",
-      "away": "Japan",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 12,
-      "home": "Sweden",
-      "away": "Tunisia",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 13,
-      "home": "Iran",
-      "away": "New Zealand",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 14,
-      "home": "Spain",
-      "away": "Cape Verde",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 15,
-      "home": "Belgium",
-      "away": "Egypt",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 16,
-      "home": "Saudi Arabia",
-      "away": "Uruguay",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 17,
-      "home": "France",
-      "away": "Senegal",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 18,
-      "home": "Iraq",
-      "away": "Norway",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 19,
-      "home": "Argentina",
-      "away": "Algeria",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 20,
-      "home": "Austria",
-      "away": "Jordan",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 21,
-      "home": "Portugal",
-      "away": "Democratic Republic of the Congo",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 22,
-      "home": "England",
-      "away": "Croatia",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 23,
-      "home": "Uzbekistan",
-      "away": "Colombia",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 24,
-      "home": "Ghana",
-      "away": "Panama",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 25,
-      "home": "Mexico",
-      "away": "South Korea",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 26,
-      "home": "Switzerland",
-      "away": "Bosnia and Herzegovina",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 27,
-      "home": "Canada",
-      "away": "Qatar",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 28,
-      "home": "Czech Republic",
-      "away": "South Africa",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 29,
-      "home": "Brazil",
-      "away": "Haiti",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 30,
-      "home": "Scotland",
-      "away": "Morocco",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
       "n": 31,
       "home": "United States",
       "away": "Australia",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 32,
-      "home": "Turkey",
-      "away": "Paraguay",
       "homeScore": null,
       "awayScore": null,
       "status": "Scheduled"
@@ -267,57 +35,9 @@
       "status": "Scheduled"
     },
     {
-      "n": 34,
-      "home": "Ecuador",
-      "away": "Curaçao",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
       "n": 35,
       "home": "Netherlands",
       "away": "Sweden",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 36,
-      "home": "Tunisia",
-      "away": "Japan",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 37,
-      "home": "Belgium",
-      "away": "Iran",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 38,
-      "home": "New Zealand",
-      "away": "Egypt",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 39,
-      "home": "Spain",
-      "away": "Saudi Arabia",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 40,
-      "home": "Uruguay",
-      "away": "Cape Verde",
       "homeScore": null,
       "awayScore": null,
       "status": "Scheduled"
@@ -339,9 +59,57 @@
       "status": "Scheduled"
     },
     {
-      "n": 43,
-      "home": "Argentina",
-      "away": "Austria",
+      "n": 59,
+      "home": "Japan",
+      "away": "Sweden",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 95,
+      "home": "Winner Match 86",
+      "away": "Winner Match 88",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 101,
+      "home": "Winner Match 97",
+      "away": "Winner Match 98",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 102,
+      "home": "Winner Match 99",
+      "away": "Winner Match 100",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 5,
+      "home": "Haiti",
+      "away": "Scotland",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 22,
+      "home": "England",
+      "away": "Croatia",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 39,
+      "home": "Spain",
+      "away": "Saudi Arabia",
       "homeScore": null,
       "awayScore": null,
       "status": "Scheduled"
@@ -371,105 +139,9 @@
       "status": "Scheduled"
     },
     {
-      "n": 47,
-      "home": "Colombia",
-      "away": "Democratic Republic of the Congo",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 48,
-      "home": "England",
-      "away": "Ghana",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 49,
-      "home": "Scotland",
-      "away": "Brazil",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 50,
-      "home": "Morocco",
-      "away": "Haiti",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 51,
-      "home": "South Africa",
-      "away": "South Korea",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
       "n": 52,
       "home": "Czech Republic",
       "away": "Mexico",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 53,
-      "home": "Bosnia and Herzegovina",
-      "away": "Qatar",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 54,
-      "home": "Switzerland",
-      "away": "Canada",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 55,
-      "home": "Curaçao",
-      "away": "Ivory Coast",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 56,
-      "home": "Ecuador",
-      "away": "Germany",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 57,
-      "home": "Paraguay",
-      "away": "Australia",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 58,
-      "home": "Turkey",
-      "away": "United States",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 59,
-      "home": "Japan",
-      "away": "Sweden",
       "homeScore": null,
       "awayScore": null,
       "status": "Scheduled"
@@ -491,6 +163,214 @@
       "status": "Scheduled"
     },
     {
+      "n": 67,
+      "home": "Panama",
+      "away": "England",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 72,
+      "home": "Democratic Republic of the Congo",
+      "away": "Uzbekistan",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 86,
+      "home": "Winner Group J",
+      "away": "Runner-up Group H",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 88,
+      "home": "Runner-up Group D",
+      "away": "Runner-up Group G",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 100,
+      "home": "Winner Match 95",
+      "away": "Winner Match 96",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 2,
+      "home": "South Korea",
+      "away": "Czech Republic",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 4,
+      "home": "United States",
+      "away": "Paraguay",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 17,
+      "home": "France",
+      "away": "Senegal",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 18,
+      "home": "Iraq",
+      "away": "Norway",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 21,
+      "home": "Portugal",
+      "away": "Democratic Republic of the Congo",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 37,
+      "home": "Belgium",
+      "away": "Iran",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 50,
+      "home": "Morocco",
+      "away": "Haiti",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 51,
+      "home": "South Africa",
+      "away": "South Korea",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 87,
+      "home": "Winner Group K",
+      "away": "3rd Group D/E/I/J/L",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 98,
+      "home": "Winner Match 93",
+      "away": "Winner Match 94",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 9,
+      "home": "Ivory Coast",
+      "away": "Ecuador",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Final"
+    },
+    {
+      "n": 10,
+      "home": "Germany",
+      "away": "Curaçao",
+      "homeScore": 7,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 12,
+      "home": "Sweden",
+      "away": "Tunisia",
+      "homeScore": 5,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 25,
+      "home": "Mexico",
+      "away": "South Korea",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 27,
+      "home": "Canada",
+      "away": "Qatar",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 30,
+      "home": "Scotland",
+      "away": "Morocco",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 32,
+      "home": "Turkey",
+      "away": "Paraguay",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 43,
+      "home": "Argentina",
+      "away": "Austria",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 49,
+      "home": "Scotland",
+      "away": "Brazil",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 53,
+      "home": "Bosnia and Herzegovina",
+      "away": "Qatar",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 58,
+      "home": "Turkey",
+      "away": "United States",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
       "n": 62,
       "home": "Norway",
       "away": "France",
@@ -502,14 +382,6 @@
       "n": 63,
       "home": "Egypt",
       "away": "Iran",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 64,
-      "home": "New Zealand",
-      "away": "Belgium",
       "homeScore": null,
       "awayScore": null,
       "status": "Scheduled"
@@ -531,9 +403,297 @@
       "status": "Scheduled"
     },
     {
-      "n": 67,
-      "home": "Panama",
-      "away": "England",
+      "n": 70,
+      "home": "Jordan",
+      "away": "Argentina",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 76,
+      "home": "Winner Group C",
+      "away": "Runner-up Group F",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 83,
+      "home": "Runner-up Group K",
+      "away": "Runner-up Group L",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 85,
+      "home": "Winner Group B",
+      "away": "3rd Group E/F/G/I/J",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 93,
+      "home": "Winner Match 83",
+      "away": "Winner Match 84",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 96,
+      "home": "Winner Match 85",
+      "away": "Winner Match 87",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 1,
+      "home": "Mexico",
+      "away": "South Africa",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "Final"
+    },
+    {
+      "n": 7,
+      "home": "Brazil",
+      "away": "Morocco",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 11,
+      "home": "Netherlands",
+      "away": "Japan",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "Final"
+    },
+    {
+      "n": 26,
+      "home": "Switzerland",
+      "away": "Bosnia and Herzegovina",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 29,
+      "home": "Brazil",
+      "away": "Haiti",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 36,
+      "home": "Tunisia",
+      "away": "Japan",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 38,
+      "home": "New Zealand",
+      "away": "Egypt",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 40,
+      "home": "Uruguay",
+      "away": "Cape Verde",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 47,
+      "home": "Colombia",
+      "away": "Democratic Republic of the Congo",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 71,
+      "home": "Colombia",
+      "away": "Portugal",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 73,
+      "home": "Runner-up Group A",
+      "away": "Runner-up Group B",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 77,
+      "home": "Winner Group I",
+      "away": "3rd Group C/D/F/G/H",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 84,
+      "home": "Winner Group H",
+      "away": "Runner-up Group J",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 90,
+      "home": "Winner Match 73",
+      "away": "Winner Match 75",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 92,
+      "home": "Winner Match 79",
+      "away": "Winner Match 80",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 94,
+      "home": "Winner Match 81",
+      "away": "Winner Match 82",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 14,
+      "home": "Spain",
+      "away": "Cape Verde",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 16,
+      "home": "Saudi Arabia",
+      "away": "Uruguay",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 20,
+      "home": "Austria",
+      "away": "Jordan",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 23,
+      "home": "Uzbekistan",
+      "away": "Colombia",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 91,
+      "home": "Winner Match 76",
+      "away": "Winner Match 78",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 97,
+      "home": "Winner Match 89",
+      "away": "Winner Match 90",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 104,
+      "home": "Winner Match 101",
+      "away": "Winner Match 102",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 3,
+      "home": "Canada",
+      "away": "Bosnia and Herzegovina",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 13,
+      "home": "Iran",
+      "away": "New Zealand",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 19,
+      "home": "Argentina",
+      "away": "Algeria",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 24,
+      "home": "Ghana",
+      "away": "Panama",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 28,
+      "home": "Czech Republic",
+      "away": "South Africa",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 48,
+      "home": "England",
+      "away": "Ghana",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 55,
+      "home": "Curaçao",
+      "away": "Ivory Coast",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 56,
+      "home": "Ecuador",
+      "away": "Germany",
       "homeScore": null,
       "awayScore": null,
       "status": "Scheduled"
@@ -555,38 +715,6 @@
       "status": "Scheduled"
     },
     {
-      "n": 70,
-      "home": "Jordan",
-      "away": "Argentina",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 71,
-      "home": "Colombia",
-      "away": "Portugal",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 72,
-      "home": "Democratic Republic of the Congo",
-      "away": "Uzbekistan",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 73,
-      "home": "Runner-up Group A",
-      "away": "Runner-up Group B",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
       "n": 74,
       "home": "Winner Group E",
       "away": "3rd Group A/B/C/D/F",
@@ -595,25 +723,65 @@
       "status": "Scheduled"
     },
     {
+      "n": 81,
+      "home": "Winner Group D",
+      "away": "3rd Group B/E/F/I/J",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 103,
+      "home": "Loser Match 101",
+      "away": "Loser Match 102",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 15,
+      "home": "Belgium",
+      "away": "Egypt",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 34,
+      "home": "Ecuador",
+      "away": "Curaçao",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 54,
+      "home": "Switzerland",
+      "away": "Canada",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 57,
+      "home": "Paraguay",
+      "away": "Australia",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 64,
+      "home": "New Zealand",
+      "away": "Belgium",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
       "n": 75,
       "home": "Winner Group F",
       "away": "Runner-up Group C",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 76,
-      "home": "Winner Group C",
-      "away": "Runner-up Group F",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 77,
-      "home": "Winner Group I",
-      "away": "3rd Group C/D/F/G/H",
       "homeScore": null,
       "awayScore": null,
       "status": "Scheduled"
@@ -643,65 +811,9 @@
       "status": "Scheduled"
     },
     {
-      "n": 81,
-      "home": "Winner Group D",
-      "away": "3rd Group B/E/F/I/J",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
       "n": 82,
       "home": "Winner Group G",
       "away": "3rd Group A/E/H/I/J",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 83,
-      "home": "Runner-up Group K",
-      "away": "Runner-up Group L",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 84,
-      "home": "Winner Group H",
-      "away": "Runner-up Group J",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 85,
-      "home": "Winner Group B",
-      "away": "3rd Group E/F/G/I/J",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 86,
-      "home": "Winner Group J",
-      "away": "Runner-up Group H",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 87,
-      "home": "Winner Group K",
-      "away": "3rd Group D/E/I/J/L",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 88,
-      "home": "Runner-up Group D",
-      "away": "Runner-up Group G",
       "homeScore": null,
       "awayScore": null,
       "status": "Scheduled"
@@ -715,121 +827,9 @@
       "status": "Scheduled"
     },
     {
-      "n": 90,
-      "home": "Winner Match 73",
-      "away": "Winner Match 75",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 91,
-      "home": "Winner Match 76",
-      "away": "Winner Match 78",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 92,
-      "home": "Winner Match 79",
-      "away": "Winner Match 80",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 93,
-      "home": "Winner Match 83",
-      "away": "Winner Match 84",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 94,
-      "home": "Winner Match 81",
-      "away": "Winner Match 82",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 95,
-      "home": "Winner Match 86",
-      "away": "Winner Match 88",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 96,
-      "home": "Winner Match 85",
-      "away": "Winner Match 87",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 97,
-      "home": "Winner Match 89",
-      "away": "Winner Match 90",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 98,
-      "home": "Winner Match 93",
-      "away": "Winner Match 94",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
       "n": 99,
       "home": "Winner Match 91",
       "away": "Winner Match 92",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 100,
-      "home": "Winner Match 95",
-      "away": "Winner Match 96",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 101,
-      "home": "Winner Match 97",
-      "away": "Winner Match 98",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 102,
-      "home": "Winner Match 99",
-      "away": "Winner Match 100",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 103,
-      "home": "Loser Match 101",
-      "away": "Loser Match 102",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 104,
-      "home": "Winner Match 101",
-      "away": "Winner Match 102",
       "homeScore": null,
       "awayScore": null,
       "status": "Scheduled"
