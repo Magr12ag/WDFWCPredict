@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T12:04:00.821378Z",
+  "generated_at": "2026-06-20T10:30:45.757252Z",
   "source": "https://worldcup26.ir/get/games",
   "games": [
     {
@@ -230,33 +230,33 @@
       "n": 29,
       "home": "Brazil",
       "away": "Haiti",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "Final"
     },
     {
       "n": 30,
       "home": "Scotland",
       "away": "Morocco",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Final"
     },
     {
       "n": 31,
       "home": "United States",
       "away": "Australia",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "Final"
     },
     {
       "n": 32,
       "home": "Turkey",
       "away": "Paraguay",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Final"
     },
     {
       "n": 33,
@@ -628,7 +628,7 @@
     },
     {
       "n": 79,
-      "home": "Winner Group A",
+      "home": "Mexico",
       "away": "3rd Group C/E/F/H/I",
       "homeScore": null,
       "awayScore": null,
@@ -644,7 +644,7 @@
     },
     {
       "n": 81,
-      "home": "Winner Group D",
+      "home": "United States",
       "away": "3rd Group B/E/F/I/J",
       "homeScore": null,
       "awayScore": null,
