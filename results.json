@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T11:13:37.488165Z",
+  "generated_at": "2026-06-22T13:33:01.039029Z",
   "source": "https://worldcup26.ir/get/games",
   "games": [
     {
@@ -294,33 +294,33 @@
       "n": 37,
       "home": "Belgium",
       "away": "Iran",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Final"
     },
     {
       "n": 38,
       "home": "New Zealand",
       "away": "Egypt",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "Final"
     },
     {
       "n": 39,
       "home": "Spain",
       "away": "Saudi Arabia",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "Final"
     },
     {
       "n": 40,
       "home": "Uruguay",
       "away": "Cape Verde",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "Final"
     },
     {
       "n": 41,
