@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T11:13:22.328514Z",
+  "generated_at": "2026-06-24T10:46:09.234569Z",
   "source": "https://worldcup26.ir/get/games",
   "games": [
     {
@@ -358,33 +358,33 @@
       "n": 45,
       "home": "Portugal",
       "away": "Uzbekistan",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "Final"
     },
     {
       "n": 46,
       "home": "Panama",
       "away": "Croatia",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Final"
     },
     {
       "n": 47,
       "home": "Colombia",
       "away": "Democratic Republic of the Congo",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Final"
     },
     {
       "n": 48,
       "home": "England",
       "away": "Ghana",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Final"
     },
     {
       "n": 49,
