@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T10:39:18.390253Z",
+  "generated_at": "2026-06-26T10:48:07.209659Z",
   "source": "https://worldcup26.ir/get/games",
   "games": [
     {
@@ -62,9 +62,9 @@
       "n": 59,
       "home": "Japan",
       "away": "Sweden",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Final"
     },
     {
       "n": 95,
@@ -150,9 +150,9 @@
       "n": 60,
       "home": "Tunisia",
       "away": "Netherlands",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "Final"
     },
     {
       "n": 61,
@@ -366,9 +366,9 @@
       "n": 58,
       "home": "Turkey",
       "away": "United States",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "Final"
     },
     {
       "n": 62,
@@ -686,17 +686,17 @@
       "n": 55,
       "home": "Curaçao",
       "away": "Ivory Coast",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "Final"
     },
     {
       "n": 56,
       "home": "Ecuador",
       "away": "Germany",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "Final"
     },
     {
       "n": 68,
@@ -766,9 +766,9 @@
       "n": 57,
       "home": "Paraguay",
       "away": "Australia",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Final"
     },
     {
       "n": 64,
