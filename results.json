@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T10:48:07.209659Z",
+  "generated_at": "2026-06-27T10:04:14.286423Z",
   "source": "https://worldcup26.ir/get/games",
   "games": [
     {
@@ -158,9 +158,9 @@
       "n": 61,
       "home": "Senegal",
       "away": "Iraq",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 5,
+      "awayScore": 0,
+      "status": "Final"
     },
     {
       "n": 67,
@@ -181,15 +181,15 @@
     {
       "n": 86,
       "home": "Argentina",
-      "away": "Runner-up Group H",
+      "away": "Cape Verde",
       "homeScore": null,
       "awayScore": null,
       "status": "Scheduled"
     },
     {
       "n": 88,
-      "home": "Runner-up Group D",
-      "away": "Runner-up Group G",
+      "home": "Australia",
+      "away": "Egypt",
       "homeScore": null,
       "awayScore": null,
       "status": "Scheduled"
@@ -374,33 +374,33 @@
       "n": 62,
       "home": "Norway",
       "away": "France",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "Final"
     },
     {
       "n": 63,
       "home": "Egypt",
       "away": "Iran",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Final"
     },
     {
       "n": 65,
       "home": "Cape Verde",
       "away": "Saudi Arabia",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Final"
     },
     {
       "n": 66,
       "home": "Uruguay",
       "away": "Spain",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Final"
     },
     {
       "n": 70,
@@ -413,7 +413,7 @@
     {
       "n": 76,
       "home": "Brazil",
-      "away": "Runner-up Group F",
+      "away": "Japan",
       "homeScore": null,
       "awayScore": null,
       "status": "Scheduled"
@@ -540,7 +540,7 @@
     },
     {
       "n": 77,
-      "home": "Winner Group I",
+      "home": "France",
       "away": "3rd Group C/D/F/G/H",
       "homeScore": null,
       "awayScore": null,
@@ -717,7 +717,7 @@
     {
       "n": 74,
       "home": "Germany",
-      "away": "3rd Group A/B/C/D/F",
+      "away": "Paraguay",
       "homeScore": null,
       "awayScore": null,
       "status": "Scheduled"
@@ -725,7 +725,7 @@
     {
       "n": 81,
       "home": "United States",
-      "away": "3rd Group B/E/F/I/J",
+      "away": "Bosnia and Herzegovina",
       "homeScore": null,
       "awayScore": null,
       "status": "Scheduled"
@@ -774,13 +774,13 @@
       "n": 64,
       "home": "New Zealand",
       "away": "Belgium",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 1,
+      "awayScore": 5,
+      "status": "Final"
     },
     {
       "n": 75,
-      "home": "Winner Group F",
+      "home": "Netherlands",
       "away": "Morocco",
       "homeScore": null,
       "awayScore": null,
@@ -788,8 +788,8 @@
     },
     {
       "n": 78,
-      "home": "Runner-up Group E",
-      "away": "Runner-up Group I",
+      "home": "Ivory Coast",
+      "away": "Norway",
       "homeScore": null,
       "awayScore": null,
       "status": "Scheduled"
@@ -804,7 +804,7 @@
     },
     {
       "n": 80,
-      "home": "Winner Group L",
+      "home": "Belgium",
       "away": "3rd Group E/H/I/J/K",
       "homeScore": null,
       "awayScore": null,
