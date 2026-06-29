@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T10:24:58.267542Z",
+  "generated_at": "2026-06-29T12:28:47.978164Z",
   "source": "https://worldcup26.ir/get/games",
   "games": [
     {
@@ -534,9 +534,9 @@
       "n": 73,
       "home": "South Africa",
       "away": "Canada",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Final"
     },
     {
       "n": 77,
@@ -556,7 +556,7 @@
     },
     {
       "n": 90,
-      "home": "Winner Match 73",
+      "home": "Canada",
       "away": "Winner Match 75",
       "homeScore": null,
       "awayScore": null,
