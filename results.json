@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T10:54:21.924791Z",
+  "generated_at": "2026-07-01T11:21:12.311115Z",
   "source": "https://worldcup26.ir/get/games",
   "games": [
     {
@@ -542,9 +542,9 @@
       "n": 77,
       "home": "France",
       "away": "Sweden",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "Final"
     },
     {
       "n": 84,
@@ -564,7 +564,7 @@
     },
     {
       "n": 92,
-      "home": "Winner Match 79",
+      "home": "Mexico",
       "away": "Winner Match 80",
       "homeScore": null,
       "awayScore": null,
@@ -613,7 +613,7 @@
     {
       "n": 91,
       "home": "Brazil",
-      "away": "Winner Match 78",
+      "away": "Norway",
       "homeScore": null,
       "awayScore": null,
       "status": "Scheduled"
@@ -790,17 +790,17 @@
       "n": 78,
       "home": "Ivory Coast",
       "away": "Norway",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "Final"
     },
     {
       "n": 79,
       "home": "Mexico",
       "away": "Ecuador",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "Final"
     },
     {
       "n": 80,
@@ -821,7 +821,7 @@
     {
       "n": 89,
       "home": "Paraguay",
-      "away": "Winner Match 77",
+      "away": "France",
       "homeScore": null,
       "awayScore": null,
       "status": "Scheduled"
