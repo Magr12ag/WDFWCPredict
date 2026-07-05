@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T10:06:05.291545Z",
+  "generated_at": "2026-07-05T10:09:04.815167Z",
   "source": "https://worldcup26.ir/get/games",
   "games": [
     {
@@ -710,17 +710,17 @@
       "n": 89,
       "home": "Paraguay",
       "away": "France",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Final"
     },
     {
       "n": 90,
       "home": "Canada",
       "away": "Morocco",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "Final"
     },
     {
       "n": 91,
@@ -772,8 +772,8 @@
     },
     {
       "n": 97,
-      "home": "Winner Match 89",
-      "away": "Winner Match 90",
+      "home": "France",
+      "away": "Morocco",
       "homeScore": null,
       "awayScore": null,
       "status": "Scheduled"
