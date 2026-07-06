@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T10:09:04.815167Z",
+  "generated_at": "2026-07-06T12:01:44.307484Z",
   "source": "https://worldcup26.ir/get/games",
   "games": [
     {
@@ -726,17 +726,17 @@
       "n": 91,
       "home": "Brazil",
       "away": "Norway",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "Final"
     },
     {
       "n": 92,
       "home": "Mexico",
       "away": "England",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "Final"
     },
     {
       "n": 93,
@@ -788,8 +788,8 @@
     },
     {
       "n": 99,
-      "home": "Winner Match 91",
-      "away": "Winner Match 92",
+      "home": "Norway",
+      "away": "England",
       "homeScore": null,
       "awayScore": null,
       "status": "Scheduled"
