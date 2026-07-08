@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T10:52:17.594952Z",
+  "generated_at": "2026-07-08T10:13:10.955455Z",
   "source": "https://worldcup26.ir/get/games",
   "games": [
     {
@@ -758,17 +758,17 @@
       "n": 95,
       "home": "Argentina",
       "away": "Egypt",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "Final"
     },
     {
       "n": 96,
       "home": "Switzerland",
       "away": "Colombia",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Final"
     },
     {
       "n": 97,
@@ -796,8 +796,8 @@
     },
     {
       "n": 100,
-      "home": "Winner Match 95",
-      "away": "Winner Match 96",
+      "home": "Argentina",
+      "away": "Switzerland",
       "homeScore": null,
       "awayScore": null,
       "status": "Scheduled"
