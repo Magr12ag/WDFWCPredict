@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T10:56:19.127379Z",
+  "generated_at": "2026-07-10T10:50:05.805016Z",
   "source": "https://worldcup26.ir/get/games",
   "games": [
     {
@@ -774,9 +774,9 @@
       "n": 97,
       "home": "France",
       "away": "Morocco",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "Final"
     },
     {
       "n": 98,
@@ -804,7 +804,7 @@
     },
     {
       "n": 101,
-      "home": "Winner Match 97",
+      "home": "France",
       "away": "Winner Match 98",
       "homeScore": null,
       "awayScore": null,
