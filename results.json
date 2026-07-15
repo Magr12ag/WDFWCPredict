@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T09:54:41.839315Z",
+  "generated_at": "2026-07-15T09:58:59.604694Z",
   "source": "https://worldcup26.ir/get/games",
   "games": [
     {
@@ -806,9 +806,9 @@
       "n": 101,
       "home": "France",
       "away": "Spain",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "Final"
     },
     {
       "n": 102,
