@@ -1,47 +1,7 @@
 {
-  "generated_at": "2026-07-16T10:04:53.572272Z",
+  "generated_at": "2026-07-17T09:53:41.566563Z",
   "source": "https://worldcup26.ir/get/games",
   "games": [
-    {
-      "n": 1,
-      "home": "Mexico",
-      "away": "South Africa",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "Final"
-    },
-    {
-      "n": 2,
-      "home": "South Korea",
-      "away": "Czech Republic",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "Final"
-    },
-    {
-      "n": 3,
-      "home": "Canada",
-      "away": "Bosnia and Herzegovina",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Final"
-    },
-    {
-      "n": 4,
-      "home": "United States",
-      "away": "Paraguay",
-      "homeScore": 4,
-      "awayScore": 1,
-      "status": "Final"
-    },
-    {
-      "n": 5,
-      "home": "Haiti",
-      "away": "Scotland",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Final"
-    },
     {
       "n": 6,
       "home": "Australia",
@@ -51,194 +11,10 @@
       "status": "Final"
     },
     {
-      "n": 7,
-      "home": "Brazil",
-      "away": "Morocco",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Final"
-    },
-    {
       "n": 8,
       "home": "Qatar",
       "away": "Switzerland",
       "homeScore": 1,
-      "awayScore": 1,
-      "status": "Final"
-    },
-    {
-      "n": 9,
-      "home": "Ivory Coast",
-      "away": "Ecuador",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Final"
-    },
-    {
-      "n": 10,
-      "home": "Germany",
-      "away": "Curaçao",
-      "homeScore": 7,
-      "awayScore": 1,
-      "status": "Final"
-    },
-    {
-      "n": 11,
-      "home": "Netherlands",
-      "away": "Japan",
-      "homeScore": 2,
-      "awayScore": 2,
-      "status": "Final"
-    },
-    {
-      "n": 12,
-      "home": "Sweden",
-      "away": "Tunisia",
-      "homeScore": 5,
-      "awayScore": 1,
-      "status": "Final"
-    },
-    {
-      "n": 13,
-      "home": "Iran",
-      "away": "New Zealand",
-      "homeScore": 2,
-      "awayScore": 2,
-      "status": "Final"
-    },
-    {
-      "n": 14,
-      "home": "Spain",
-      "away": "Cape Verde",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Final"
-    },
-    {
-      "n": 15,
-      "home": "Belgium",
-      "away": "Egypt",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Final"
-    },
-    {
-      "n": 16,
-      "home": "Saudi Arabia",
-      "away": "Uruguay",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Final"
-    },
-    {
-      "n": 17,
-      "home": "France",
-      "away": "Senegal",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "Final"
-    },
-    {
-      "n": 18,
-      "home": "Iraq",
-      "away": "Norway",
-      "homeScore": 1,
-      "awayScore": 4,
-      "status": "Final"
-    },
-    {
-      "n": 19,
-      "home": "Argentina",
-      "away": "Algeria",
-      "homeScore": 3,
-      "awayScore": 0,
-      "status": "Final"
-    },
-    {
-      "n": 20,
-      "home": "Austria",
-      "away": "Jordan",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "Final"
-    },
-    {
-      "n": 21,
-      "home": "Portugal",
-      "away": "Democratic Republic of the Congo",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Final"
-    },
-    {
-      "n": 22,
-      "home": "England",
-      "away": "Croatia",
-      "homeScore": 4,
-      "awayScore": 2,
-      "status": "Final"
-    },
-    {
-      "n": 23,
-      "home": "Uzbekistan",
-      "away": "Colombia",
-      "homeScore": 1,
-      "awayScore": 3,
-      "status": "Final"
-    },
-    {
-      "n": 24,
-      "home": "Ghana",
-      "away": "Panama",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Final"
-    },
-    {
-      "n": 25,
-      "home": "Mexico",
-      "away": "South Korea",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Final"
-    },
-    {
-      "n": 26,
-      "home": "Switzerland",
-      "away": "Bosnia and Herzegovina",
-      "homeScore": 4,
-      "awayScore": 1,
-      "status": "Final"
-    },
-    {
-      "n": 27,
-      "home": "Canada",
-      "away": "Qatar",
-      "homeScore": 6,
-      "awayScore": 0,
-      "status": "Final"
-    },
-    {
-      "n": 28,
-      "home": "Czech Republic",
-      "away": "South Africa",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Final"
-    },
-    {
-      "n": 29,
-      "home": "Brazil",
-      "away": "Haiti",
-      "homeScore": 3,
-      "awayScore": 0,
-      "status": "Final"
-    },
-    {
-      "n": 30,
-      "home": "Scotland",
-      "away": "Morocco",
-      "homeScore": 0,
       "awayScore": 1,
       "status": "Final"
     },
@@ -251,14 +27,6 @@
       "status": "Final"
     },
     {
-      "n": 32,
-      "home": "Turkey",
-      "away": "Paraguay",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Final"
-    },
-    {
       "n": 33,
       "home": "Germany",
       "away": "Ivory Coast",
@@ -267,59 +35,11 @@
       "status": "Final"
     },
     {
-      "n": 34,
-      "home": "Ecuador",
-      "away": "Curaçao",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Final"
-    },
-    {
       "n": 35,
       "home": "Netherlands",
       "away": "Sweden",
       "homeScore": 5,
       "awayScore": 1,
-      "status": "Final"
-    },
-    {
-      "n": 36,
-      "home": "Tunisia",
-      "away": "Japan",
-      "homeScore": 0,
-      "awayScore": 4,
-      "status": "Final"
-    },
-    {
-      "n": 37,
-      "home": "Belgium",
-      "away": "Iran",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Final"
-    },
-    {
-      "n": 38,
-      "home": "New Zealand",
-      "away": "Egypt",
-      "homeScore": 1,
-      "awayScore": 3,
-      "status": "Final"
-    },
-    {
-      "n": 39,
-      "home": "Spain",
-      "away": "Saudi Arabia",
-      "homeScore": 4,
-      "awayScore": 0,
-      "status": "Final"
-    },
-    {
-      "n": 40,
-      "home": "Uruguay",
-      "away": "Cape Verde",
-      "homeScore": 2,
-      "awayScore": 2,
       "status": "Final"
     },
     {
@@ -339,10 +59,58 @@
       "status": "Final"
     },
     {
-      "n": 43,
+      "n": 59,
+      "home": "Japan",
+      "away": "Sweden",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 95,
       "home": "Argentina",
-      "away": "Austria",
-      "homeScore": 2,
+      "away": "Egypt",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "Final"
+    },
+    {
+      "n": 101,
+      "home": "France",
+      "away": "Spain",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "Final"
+    },
+    {
+      "n": 102,
+      "home": "England",
+      "away": "Argentina",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "Final"
+    },
+    {
+      "n": 5,
+      "home": "Haiti",
+      "away": "Scotland",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 22,
+      "home": "England",
+      "away": "Croatia",
+      "homeScore": 4,
+      "awayScore": 2,
+      "status": "Final"
+    },
+    {
+      "n": 39,
+      "home": "Spain",
+      "away": "Saudi Arabia",
+      "homeScore": 4,
       "awayScore": 0,
       "status": "Final"
     },
@@ -371,107 +139,11 @@
       "status": "Final"
     },
     {
-      "n": 47,
-      "home": "Colombia",
-      "away": "Democratic Republic of the Congo",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Final"
-    },
-    {
-      "n": 48,
-      "home": "England",
-      "away": "Ghana",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Final"
-    },
-    {
-      "n": 49,
-      "home": "Scotland",
-      "away": "Brazil",
-      "homeScore": 0,
-      "awayScore": 3,
-      "status": "Final"
-    },
-    {
-      "n": 50,
-      "home": "Morocco",
-      "away": "Haiti",
-      "homeScore": 4,
-      "awayScore": 2,
-      "status": "Final"
-    },
-    {
-      "n": 51,
-      "home": "South Africa",
-      "away": "South Korea",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Final"
-    },
-    {
       "n": 52,
       "home": "Czech Republic",
       "away": "Mexico",
       "homeScore": 0,
       "awayScore": 3,
-      "status": "Final"
-    },
-    {
-      "n": 53,
-      "home": "Bosnia and Herzegovina",
-      "away": "Qatar",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "Final"
-    },
-    {
-      "n": 54,
-      "home": "Switzerland",
-      "away": "Canada",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "Final"
-    },
-    {
-      "n": 55,
-      "home": "Curaçao",
-      "away": "Ivory Coast",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "Final"
-    },
-    {
-      "n": 56,
-      "home": "Ecuador",
-      "away": "Germany",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "Final"
-    },
-    {
-      "n": 57,
-      "home": "Paraguay",
-      "away": "Australia",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Final"
-    },
-    {
-      "n": 58,
-      "home": "Turkey",
-      "away": "United States",
-      "homeScore": 3,
-      "awayScore": 2,
-      "status": "Final"
-    },
-    {
-      "n": 59,
-      "home": "Japan",
-      "away": "Sweden",
-      "homeScore": 1,
-      "awayScore": 1,
       "status": "Final"
     },
     {
@@ -491,6 +163,214 @@
       "status": "Final"
     },
     {
+      "n": 67,
+      "home": "Panama",
+      "away": "England",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "Final"
+    },
+    {
+      "n": 72,
+      "home": "Democratic Republic of the Congo",
+      "away": "Uzbekistan",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 86,
+      "home": "Argentina",
+      "away": "Cape Verde",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "Final"
+    },
+    {
+      "n": 88,
+      "home": "Australia",
+      "away": "Egypt",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 100,
+      "home": "Argentina",
+      "away": "Switzerland",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 2,
+      "home": "South Korea",
+      "away": "Czech Republic",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 4,
+      "home": "United States",
+      "away": "Paraguay",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 17,
+      "home": "France",
+      "away": "Senegal",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 18,
+      "home": "Iraq",
+      "away": "Norway",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "Final"
+    },
+    {
+      "n": 21,
+      "home": "Portugal",
+      "away": "Democratic Republic of the Congo",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 37,
+      "home": "Belgium",
+      "away": "Iran",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Final"
+    },
+    {
+      "n": 50,
+      "home": "Morocco",
+      "away": "Haiti",
+      "homeScore": 4,
+      "awayScore": 2,
+      "status": "Final"
+    },
+    {
+      "n": 51,
+      "home": "South Africa",
+      "away": "South Korea",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Final"
+    },
+    {
+      "n": 87,
+      "home": "Colombia",
+      "away": "Ghana",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Final"
+    },
+    {
+      "n": 98,
+      "home": "Spain",
+      "away": "Belgium",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 9,
+      "home": "Ivory Coast",
+      "away": "Ecuador",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Final"
+    },
+    {
+      "n": 10,
+      "home": "Germany",
+      "away": "Curaçao",
+      "homeScore": 7,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 12,
+      "home": "Sweden",
+      "away": "Tunisia",
+      "homeScore": 5,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 25,
+      "home": "Mexico",
+      "away": "South Korea",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Final"
+    },
+    {
+      "n": 27,
+      "home": "Canada",
+      "away": "Qatar",
+      "homeScore": 6,
+      "awayScore": 0,
+      "status": "Final"
+    },
+    {
+      "n": 30,
+      "home": "Scotland",
+      "away": "Morocco",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 32,
+      "home": "Turkey",
+      "away": "Paraguay",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 43,
+      "home": "Argentina",
+      "away": "Austria",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "Final"
+    },
+    {
+      "n": 49,
+      "home": "Scotland",
+      "away": "Brazil",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "Final"
+    },
+    {
+      "n": 53,
+      "home": "Bosnia and Herzegovina",
+      "away": "Qatar",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 58,
+      "home": "Turkey",
+      "away": "United States",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "Final"
+    },
+    {
       "n": 62,
       "home": "Norway",
       "away": "France",
@@ -504,14 +384,6 @@
       "away": "Iran",
       "homeScore": 1,
       "awayScore": 1,
-      "status": "Final"
-    },
-    {
-      "n": 64,
-      "home": "New Zealand",
-      "away": "Belgium",
-      "homeScore": 1,
-      "awayScore": 5,
       "status": "Final"
     },
     {
@@ -531,11 +403,299 @@
       "status": "Final"
     },
     {
-      "n": 67,
-      "home": "Panama",
+      "n": 70,
+      "home": "Jordan",
+      "away": "Argentina",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "Final"
+    },
+    {
+      "n": 76,
+      "home": "Brazil",
+      "away": "Japan",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 83,
+      "home": "Portugal",
+      "away": "Croatia",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 85,
+      "home": "Switzerland",
+      "away": "Algeria",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "Final"
+    },
+    {
+      "n": 93,
+      "home": "Portugal",
+      "away": "Spain",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 96,
+      "home": "Switzerland",
+      "away": "Colombia",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Final"
+    },
+    {
+      "n": 1,
+      "home": "Mexico",
+      "away": "South Africa",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "Final"
+    },
+    {
+      "n": 7,
+      "home": "Brazil",
+      "away": "Morocco",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 11,
+      "home": "Netherlands",
+      "away": "Japan",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "Final"
+    },
+    {
+      "n": 26,
+      "home": "Switzerland",
+      "away": "Bosnia and Herzegovina",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 29,
+      "home": "Brazil",
+      "away": "Haiti",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "Final"
+    },
+    {
+      "n": 36,
+      "home": "Tunisia",
+      "away": "Japan",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "Final"
+    },
+    {
+      "n": 38,
+      "home": "New Zealand",
+      "away": "Egypt",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "Final"
+    },
+    {
+      "n": 40,
+      "home": "Uruguay",
+      "away": "Cape Verde",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "Final"
+    },
+    {
+      "n": 47,
+      "home": "Colombia",
+      "away": "Democratic Republic of the Congo",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Final"
+    },
+    {
+      "n": 71,
+      "home": "Colombia",
+      "away": "Portugal",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Final"
+    },
+    {
+      "n": 73,
+      "home": "South Africa",
+      "away": "Canada",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 77,
+      "home": "France",
+      "away": "Sweden",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "Final"
+    },
+    {
+      "n": 84,
+      "home": "Spain",
+      "away": "Austria",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "Final"
+    },
+    {
+      "n": 90,
+      "home": "Canada",
+      "away": "Morocco",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "Final"
+    },
+    {
+      "n": 92,
+      "home": "Mexico",
       "away": "England",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "Final"
+    },
+    {
+      "n": 94,
+      "home": "United States",
+      "away": "Belgium",
+      "homeScore": 1,
+      "awayScore": 4,
+      "status": "Final"
+    },
+    {
+      "n": 14,
+      "home": "Spain",
+      "away": "Cape Verde",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Final"
+    },
+    {
+      "n": 16,
+      "home": "Saudi Arabia",
+      "away": "Uruguay",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 20,
+      "home": "Austria",
+      "away": "Jordan",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 23,
+      "home": "Uzbekistan",
+      "away": "Colombia",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "Final"
+    },
+    {
+      "n": 91,
+      "home": "Brazil",
+      "away": "Norway",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "Final"
+    },
+    {
+      "n": 97,
+      "home": "France",
+      "away": "Morocco",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "Final"
+    },
+    {
+      "n": 104,
+      "home": "Winner Match 101",
+      "away": "Winner Match 102",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 3,
+      "home": "Canada",
+      "away": "Bosnia and Herzegovina",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 13,
+      "home": "Iran",
+      "away": "New Zealand",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "Final"
+    },
+    {
+      "n": 19,
+      "home": "Argentina",
+      "away": "Algeria",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "Final"
+    },
+    {
+      "n": 24,
+      "home": "Ghana",
+      "away": "Panama",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Final"
+    },
+    {
+      "n": 28,
+      "home": "Czech Republic",
+      "away": "South Africa",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Final"
+    },
+    {
+      "n": 48,
+      "home": "England",
+      "away": "Ghana",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Final"
+    },
+    {
+      "n": 55,
+      "home": "Curaçao",
+      "away": "Ivory Coast",
       "homeScore": 0,
       "awayScore": 2,
+      "status": "Final"
+    },
+    {
+      "n": 56,
+      "home": "Ecuador",
+      "away": "Germany",
+      "homeScore": 2,
+      "awayScore": 1,
       "status": "Final"
     },
     {
@@ -555,38 +715,6 @@
       "status": "Final"
     },
     {
-      "n": 70,
-      "home": "Jordan",
-      "away": "Argentina",
-      "homeScore": 1,
-      "awayScore": 3,
-      "status": "Final"
-    },
-    {
-      "n": 71,
-      "home": "Colombia",
-      "away": "Portugal",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Final"
-    },
-    {
-      "n": 72,
-      "home": "Democratic Republic of the Congo",
-      "away": "Uzbekistan",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "Final"
-    },
-    {
-      "n": 73,
-      "home": "South Africa",
-      "away": "Canada",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Final"
-    },
-    {
       "n": 74,
       "home": "Germany",
       "away": "Paraguay",
@@ -595,27 +723,67 @@
       "status": "Final"
     },
     {
-      "n": 75,
-      "home": "Netherlands",
-      "away": "Morocco",
+      "n": 81,
+      "home": "United States",
+      "away": "Bosnia and Herzegovina",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "Final"
+    },
+    {
+      "n": 103,
+      "home": "Loser Match 101",
+      "away": "Loser Match 102",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "Scheduled"
+    },
+    {
+      "n": 15,
+      "home": "Belgium",
+      "away": "Egypt",
       "homeScore": 1,
       "awayScore": 1,
       "status": "Final"
     },
     {
-      "n": 76,
-      "home": "Brazil",
-      "away": "Japan",
+      "n": 34,
+      "home": "Ecuador",
+      "away": "Curaçao",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Final"
+    },
+    {
+      "n": 54,
+      "home": "Switzerland",
+      "away": "Canada",
       "homeScore": 2,
       "awayScore": 1,
       "status": "Final"
     },
     {
-      "n": 77,
-      "home": "France",
-      "away": "Sweden",
-      "homeScore": 3,
+      "n": 57,
+      "home": "Paraguay",
+      "away": "Australia",
+      "homeScore": 0,
       "awayScore": 0,
+      "status": "Final"
+    },
+    {
+      "n": 64,
+      "home": "New Zealand",
+      "away": "Belgium",
+      "homeScore": 1,
+      "awayScore": 5,
+      "status": "Final"
+    },
+    {
+      "n": 75,
+      "home": "Netherlands",
+      "away": "Morocco",
+      "homeScore": 1,
+      "awayScore": 1,
       "status": "Final"
     },
     {
@@ -643,67 +811,11 @@
       "status": "Final"
     },
     {
-      "n": 81,
-      "home": "United States",
-      "away": "Bosnia and Herzegovina",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "Final"
-    },
-    {
       "n": 82,
       "home": "Belgium",
       "away": "Senegal",
       "homeScore": 3,
       "awayScore": 2,
-      "status": "Final"
-    },
-    {
-      "n": 83,
-      "home": "Portugal",
-      "away": "Croatia",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "Final"
-    },
-    {
-      "n": 84,
-      "home": "Spain",
-      "away": "Austria",
-      "homeScore": 3,
-      "awayScore": 0,
-      "status": "Final"
-    },
-    {
-      "n": 85,
-      "home": "Switzerland",
-      "away": "Algeria",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "Final"
-    },
-    {
-      "n": 86,
-      "home": "Argentina",
-      "away": "Cape Verde",
-      "homeScore": 3,
-      "awayScore": 2,
-      "status": "Final"
-    },
-    {
-      "n": 87,
-      "home": "Colombia",
-      "away": "Ghana",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Final"
-    },
-    {
-      "n": 88,
-      "home": "Australia",
-      "away": "Egypt",
-      "homeScore": 1,
-      "awayScore": 1,
       "status": "Final"
     },
     {
@@ -715,124 +827,12 @@
       "status": "Final"
     },
     {
-      "n": 90,
-      "home": "Canada",
-      "away": "Morocco",
-      "homeScore": 0,
-      "awayScore": 3,
-      "status": "Final"
-    },
-    {
-      "n": 91,
-      "home": "Brazil",
-      "away": "Norway",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "Final"
-    },
-    {
-      "n": 92,
-      "home": "Mexico",
-      "away": "England",
-      "homeScore": 2,
-      "awayScore": 3,
-      "status": "Final"
-    },
-    {
-      "n": 93,
-      "home": "Portugal",
-      "away": "Spain",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Final"
-    },
-    {
-      "n": 94,
-      "home": "United States",
-      "away": "Belgium",
-      "homeScore": 1,
-      "awayScore": 4,
-      "status": "Final"
-    },
-    {
-      "n": 95,
-      "home": "Argentina",
-      "away": "Egypt",
-      "homeScore": 3,
-      "awayScore": 2,
-      "status": "Final"
-    },
-    {
-      "n": 96,
-      "home": "Switzerland",
-      "away": "Colombia",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Final"
-    },
-    {
-      "n": 97,
-      "home": "France",
-      "away": "Morocco",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "Final"
-    },
-    {
-      "n": 98,
-      "home": "Spain",
-      "away": "Belgium",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "Final"
-    },
-    {
       "n": 99,
       "home": "Norway",
       "away": "England",
       "homeScore": 1,
       "awayScore": 2,
       "status": "Final"
-    },
-    {
-      "n": 100,
-      "home": "Argentina",
-      "away": "Switzerland",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "Final"
-    },
-    {
-      "n": 101,
-      "home": "France",
-      "away": "Spain",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "Final"
-    },
-    {
-      "n": 102,
-      "home": "England",
-      "away": "Argentina",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "Final"
-    },
-    {
-      "n": 103,
-      "home": "Loser Match 101",
-      "away": "Loser Match 102",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
-    },
-    {
-      "n": 104,
-      "home": "Winner Match 101",
-      "away": "Winner Match 102",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
     }
   ]
 }
