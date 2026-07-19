@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T09:20:59.344548Z",
+  "generated_at": "2026-07-19T09:49:00.337297Z",
   "source": "https://worldcup26.ir/get/games",
   "games": [
     {
@@ -734,9 +734,9 @@
       "n": 103,
       "home": "France",
       "away": "England",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "Scheduled"
+      "homeScore": 4,
+      "awayScore": 6,
+      "status": "Final"
     },
     {
       "n": 15,
